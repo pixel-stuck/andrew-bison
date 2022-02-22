@@ -30,7 +30,7 @@ The entry point is reader().  */
 
 #include <stdio.h>
 #include <ctype.h>
-#include "andrewos.h"
+#include "system.h"
 #include "files.h"
 #include "new.h"
 #include "symtab.h"

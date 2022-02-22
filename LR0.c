@@ -22,7 +22,7 @@ the Free Software Foundation, 675 Mass Ave, Cambridge, MA 02139, USA.  */
    The entry point is generate_states.  */
 
 #include <stdio.h>
-#include "andrewos.h"
+#include "system.h"
 #include "machine.h"
 #include "new.h"
 #include "gram.h"

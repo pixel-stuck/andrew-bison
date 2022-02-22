@@ -23,7 +23,7 @@ the Free Software Foundation, 675 Mass Ave, Cambridge, MA 02139, USA.  */
 
 #include <stdio.h>
 #include "getopt.h"
-#include "andrewos.h"
+#include "system.h"
 #include "files.h"
 
 int verboseflag;
